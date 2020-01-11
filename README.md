@@ -1,2 +1,2 @@
 # Java-Spring
-JAVA Spring 實作 R
+JAVA Spring 實作 Restful API
